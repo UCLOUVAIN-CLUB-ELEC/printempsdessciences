@@ -10,4 +10,5 @@
 - Alimentation 12V: rendre plus robuste et minimiser les risques (notamment les courts-circuits avec les longs fils)
 - Challenge 2: si temps disponible, implémenter les portes sur PCB avec un système de connexion facile et sans devoir s'embêter avec les alims
 - Demo 2: changer la méthode d'entrée des chiffres pour permettre aux élèves de le faire
+- Demo 3: pour le wafer, en choisir un avec le pattern de chips dessus pour mieux illustrer l'état avant dicing
 - Challenge 3: avoir plus de variété dans les composants pour les laisser fouiller
